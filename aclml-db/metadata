@@ -1,0 +1,22 @@
+(:blank-id-count 0 :data-change-count 300 :default-graph-upi
+ (0 0 0 0 234 161 164 166 0 0 0 31) :encoded-triple-count 0 :endian
+ :little-endian :expected-unique-resource 100000 :extended-version
+ "AllegroGraph Lisp Edition 3.2 [built on March 16, 2009 15:04:57 GMT-0700]"
+ :geospatial-subtype-list nil :hashed-triple-count 299 :id-metaindex-count 2
+ :indices
+ ((:gospi nil nil) (:gposi nil nil) (:gspoi nil nil) (:ospgi nil nil)
+  (:posgi nil nil) (:spogi nil nil))
+ :manager-metadata
+ (:chunk-count-to-merge-if-all-same 10 :chunk-count-to-merge-if-some-small 10
+  :unindexed-triple-count-threshold 0 :unmerged-chunk-count-threshold 0)
+ :maximum-literal-size-to-index 255 :metaindex-skip-size 256
+ :original-lisp-bits 64 :policy-manager-class
+ db.agraph::merge-small-chunks-manager :raw-triple-count 299
+ :registered-predicates nil :spogi-cache-enabled-p nil :spogi-cache-size 10000
+ :statistics
+ ((db.agraph::predicate-average-subject-count)
+  (db.agraph::predicate-average-object-count))
+ :text-index-parameters nil :triple-store-class db.agraph::triple-db
+ :triple-store-id (234 161 164 166) :triple-store-uuid
+ "2f235fc2-0a32-38c4-049c-001d7da65925" :type-mappings nil :upi-map-directory
+ nil)

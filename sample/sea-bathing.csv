@@ -1,0 +1,11 @@
+wind,temp,result
+weak,high,go
+weak,low,not-go
+weak,high,go
+weak,middle,go
+weak,low,not-go
+weak,high,not-go
+strong,high,not-go
+strong,low,not-go
+strong,middle,not-go
+strong,high,go

@@ -1,0 +1,12 @@
+sex,house,result
+male,own,yes
+male,own,yes
+female,own,yes
+female,own,yes
+female,rental,yes
+female,rental,no
+female,rental,no
+female,rental,no
+male,rental,no
+male,own,no
+male,own,no
